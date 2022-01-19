@@ -1,5 +1,5 @@
 ---
-name: ci
+name: NikitaSkrynnik/my-cmd-example:b1d9921
 on:
   pull_request:
   push:
